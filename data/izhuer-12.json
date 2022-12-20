@@ -1,0 +1,8 @@
+{
+  "contest": 199,
+  "handle": "izhuer",
+  "risk": "",
+  "title": "The patch is not sufficient: there is another insidious exploit that can cause the same critical consequences",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2022-12-ens-mitigation-findings/issues/12"
+}
